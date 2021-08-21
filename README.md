@@ -1,5 +1,5 @@
 # AnyMind
-This assignment has been completed using Python 3.7
+This project has been completed using Python 3.7
 
 To run the app please go to the project root directory and execute the below commands in the terminal.
 
